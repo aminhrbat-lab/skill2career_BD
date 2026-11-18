@@ -1,0 +1,6 @@
+{
+  "name": "NearMe",
+  "description": "Location-based social discovery & networking platform: discover nearby people, join communities & chatrooms, connect, message, and explore events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
